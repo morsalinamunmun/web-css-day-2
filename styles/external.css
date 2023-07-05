@@ -1,0 +1,36 @@
+
+header{
+  height: 300px;  
+  /* background-image: url('beli.jpg'); */
+  /* background-repeat: repeat-x; */
+  /* background-repeat: no-repeat; */
+  /* background-repeat: repeat-y; */
+ /* background-size: contain; */
+ /* background-size: 200px; */
+ /* background-image: url('../maxresdefault.jpg'); */
+ background-image: url('../images/Tanjin-Tisha.jpg');
+ /* background-position: left top; */
+}
+h3{
+    font-size: 30px;
+    text-decoration: overline;
+    font-family: 'Courier New', Courier, monospace;
+}
+.blog{
+    padding: 10px;
+    margin: 40px;
+    border: 10px solid tomato;
+    box-shadow: 5px 5px 20px rgb(218, 186, 218);
+}
+.box{
+    border: 2px solid #f30fdc;
+    padding: 10px;
+    margin: 15px;
+    /* height: 200px; */
+    /* display: block; */
+    display: inline-block;
+}
+/* .second{
+    display: none; 
+     visibility: hidden; 
+} */

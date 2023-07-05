@@ -1,0 +1,72 @@
+*{
+    margin: 0;
+}
+#Lorem{
+    color: blue;
+    width: 200px;
+    border: 1px dashed black;
+    display: inline-block;
+}
+h1{
+    text-align: center;
+    color: blue;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 40px;
+}
+.person p{
+    margin-right: 50px;
+    margin-left: 50px;
+    font-size: 20px;
+}
+.person ul li{
+    font-weight: 600;
+    text-align: center;
+    list-style: none;
+    /* list-style-position: inside; */
+}
+span{
+    font-style: oblique;
+}
+.instractor{
+    border: 1px solid blue;
+    width: 220px;
+    padding: 20px;
+    margin: 20px;
+    display: inline-block;
+}
+.instractor h3, p{
+    text-align: center;
+}
+#menu{
+    background-image: url('beli.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* background-position: left; */
+    color: rgb(249, 112, 27);
+}
+#menu h3{
+    font-size: 50px;
+    text-align: center;
+}
+#menu p{
+    margin-left: 200px;
+    margin-right: 200px;
+}
+#menu a{
+    text-decoration: none;
+    color: rgb(249, 112, 27);
+    padding: 10px 30px;
+    border: 5px solid rgb(249, 112, 27);
+    border-radius: 25px;
+    margin-left: 42%;
+    margin-right: 42%;
+   
+}
+.menu{
+    background-color: aqua;
+    margin-top: 30px;
+    height: 200px;
+    width: 200px;
+    display: inline-block;
+    box-shadow: 10px 10px 20px 6px rgb(121, 135, 135);
+}
